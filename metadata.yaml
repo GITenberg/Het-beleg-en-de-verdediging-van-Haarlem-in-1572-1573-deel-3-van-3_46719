@@ -22,5 +22,7 @@ language: nl
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Het beleg en de verdediging van Haarlem, in 1572-1573 (deel 3 van 3)
 url: http://www.gutenberg.org/ebooks/46719
